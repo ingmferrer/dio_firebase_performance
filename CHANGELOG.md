@@ -1,3 +1,7 @@
+# [0.3.1]
+
+* Update Firebase Performance dependency
+
 # [0.3.1-dev.3]
 
 * Update Dependencies (thx abahnj)
